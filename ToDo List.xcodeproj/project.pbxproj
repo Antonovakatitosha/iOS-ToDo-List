@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		564D8B672CECD3E0005ADA4D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 564D8B662CECD3E0005ADA4D /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		564D8B3B2CECD197005ADA4D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		564D8B2A2CECD196005ADA4D /* ToDo List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ToDo List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		564D8B3A2CECD197005ADA4D /* ToDo ListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ToDo ListTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		564D8B442CECD197005ADA4D /* ToDo ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ToDo ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		564D8B662CECD3E0005ADA4D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				564D8B3D2CECD197005ADA4D /* ToDo ListTests */,
 				564D8B472CECD197005ADA4D /* ToDo ListUITests */,
 				564D8B2B2CECD196005ADA4D /* Products */,
+				564D8B662CECD3E0005ADA4D /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				564D8B672CECD3E0005ADA4D /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
